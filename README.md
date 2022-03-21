@@ -1,2 +1,2 @@
 # LP2
-repositório designado a postagem de atividades sobre LP2 
+Local desgnado para postagem de atividade para nota em LP2
